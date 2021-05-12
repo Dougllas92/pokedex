@@ -43,6 +43,21 @@ Seu desafio é criar um app para buscar pokémons, filtrando por tipos, além de
 - Adicionar opção para ordenar por ordem alfabética ou numeração
 - Adicionar filtro por gerações de pokemons
 
+## Objetivos concluídos
+- [x] Tela inicial listando todos os pokemons
+- Adicionar filtros
+  - [] Gerações
+  - [] Tipos
+  - [] Fraquezas
+  - [] Alturas
+  - [] Pesos
+  - [] Quantitativo de números
+- Ordenação alfabética e/ou numeração
+- Tela de Perfil do Pokemon
+ - [] Dados de treinamento
+ - [] indicadores
+ - [] Tipos de defesas
+ - [] Evoluções
 # Techs: 
 - React Native, Vue Native, Flutter ou a linguagem que você preferir :)
 
